@@ -2,4 +2,4 @@
 
 # Display listening sockets
 echo "Listening sockets:"
-netstat -tuln
+netstat -l -p
